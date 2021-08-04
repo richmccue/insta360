@@ -12,7 +12,7 @@ This quiz is mandatory for anyone who wishes to borrow a 360 camera from the lib
 
 ** Brittany: It might make sense to turn the link to the quiz into a button**
 
-Take the quiz now: [Quiz](https://forms.gle/cUx5CF7t7HxjhYsZA){:target="_blank"}{: .btn .btn-yellow }<br>
+Take the quiz now: [Quiz](https://forms.gle/cUx5CF7t7HxjhYsZA){:target="_blank"}{: .btn .btn-red }<br>
 
 
 [NEXT STEP: Earn a Workshop badge](informal-credentials.html){: .btn .btn-blue }
