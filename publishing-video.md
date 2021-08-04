@@ -22,3 +22,5 @@ _Note: Local is where your edits are and camera is the original footage_
 - Open Wordpress or your blog page and embed your saved video or share the link. 
 
 _Great work!_
+
+[NEXT STEP: Quiz](quiz.html){: .btn .btn-blue }
