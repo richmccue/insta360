@@ -28,7 +28,7 @@ Using the Insta 360 for still shots can help you create a "choose your own adven
 
 At the end of this workshop, you will be able to:
 
-9. **Learn how to protect the Insta360 lenses from being scratched**, see what video from a scratched lens looks like, & know how much it costs to replace a scratched lens
+1. **Learn how to protect the Insta360 lenses from being scratched**, see what video from a scratched lens looks like, & know how much it costs to replace a scratched lens
 1. Record video with the Insta360 on a tripod and selfie stick
 2. Record still images with the Insta360 on a tripod and selfie stick
 3. Transfer videos and images to a smartphone for editing
